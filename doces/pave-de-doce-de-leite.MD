@@ -16,7 +16,7 @@ Este pavê não leva frutas e não fica enjoativo.
   * 300 mL de leite
   * 3 colheres de sopa de amido de milho
   * 200 g de creme de leite
-  1. 1/2 lata de leite condensado
+  * 1/2 lata de leite condensado
 1. Creme de doce de leite
   * 300 g de doce de leite
   * 100 g de creme de leite (se necessário)
