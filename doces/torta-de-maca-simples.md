@@ -1,6 +1,6 @@
 # 🥧 Torta de maçã simples
 
-Torta rápiada de maçã
+Torta rápida de maçã
 
 * data: 02/05/2018
 * tempo de preparo: 0h30m
