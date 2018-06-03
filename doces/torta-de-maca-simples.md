@@ -11,6 +11,7 @@
 * 3 colheres de sopa de leite
 * 1 colher de sobremesa rasa de fermento
 * 1/2 colher de café de canela
+* 1 colher de sopa de açúcar e 1 colher de café de canela para cobertura
 
 ## Modo de preparo
 
@@ -20,7 +21,7 @@
 4. Junte todos os outros ingredientes (exceto farinha e o fermento) e misture até formar uma massa homogênea
 5. Incorpore toda a farinha e o fermento, mexendo até deixar a massa homogênea
 6. Coloque a massa sobre o fundo da forma já forrado com as maçãs, usando uma espátula para deixar o mais nivelado possível
-7. Polvilhe um pouco de açúcar misturado com canela sobre a massa
+7. Polvilhe a mistura de açúcar com canela sobre a massa para fazer a cobertura
 8. Coloque em fogo a 180o C por 30 minutos
 
 ### Informações nutricionais
