@@ -23,7 +23,3 @@
 6. Coloque a massa sobre o fundo da forma já forrado com as maçãs, usando uma espátula para deixar o mais nivelado possível
 7. Polvilhe a mistura de açúcar com canela sobre a massa para fazer a cobertura
 8. Coloque em fogo a 180o C por 30 minutos
-
-### Informações nutricionais
-
-<não há>
