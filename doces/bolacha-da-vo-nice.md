@@ -1,4 +1,4 @@
-# Bolacha da Vó Nice
+# 🍪Bolacha da Vó Nice
 
 Receita de família
 
@@ -22,7 +22,7 @@ Receita de família
 1. Adicionane farinha até que a massa fique em ponto de abrir, mexendo sempre.
 1. Abra a massa e corte em rodelas
 1. Leve ao forno em temperatura média por aproximadamente 20 minutos.
- 
+
 
 ### Dicas
 
