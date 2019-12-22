@@ -26,7 +26,3 @@ descricao
 #### Dicas
 
 Foo bar fizz buzz
-
-#### Informações nutricionais
-
-Foo bar fizz buzz
