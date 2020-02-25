@@ -11,10 +11,10 @@ descricao
 
 ### Ingredientes
 
-1. foo
-1. bar
-1. fizz
-1. buzz
+- [ ] foo
+- [ ] bar
+- [ ] fizz
+- [ ] buzz
 
 ### Modo de preparo
 
