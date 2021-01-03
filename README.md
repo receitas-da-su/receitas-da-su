@@ -10,6 +10,7 @@
 -   [creme-branco-3-leites.md](doces/creme-branco-3-leites.md) 
 -   [pave-de-doce-de-leite.md](doces/pave-de-doce-de-leite.md) 
 -   [torta-de-maca-simples.md](doces/torta-de-maca-simples.md) 
+-    [torta-holandesa.md](doces/torta-holandesa.md) 
 
 ## SALGADOS
 
