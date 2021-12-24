@@ -1,10 +1,8 @@
-# Bolo toalha felpuda 🍰
+# Bolo toalha felpuda 🍰 com côco 🥥
 
-## Com côco 🥥
+## Ingredientes
 
-### Ingredientes
-
-#### Massa
+### Massa
 
 - [ ] 3 ovos
 - [ ] 90 g de manteiga
@@ -14,17 +12,15 @@
 - [ ] 1/5 xícara de leite de côco
 - [ ] 1 colher de sopa de fermento em pó
 
-#### Calda
+### Calda
 
 - [ ] O restante do leite de côco que havia no vidro usado para fazer a massa
 - [ ] 200 mL de leite
 - [ ] 1 caixa de leite condensado
 
+## Modo de preparo
 
-
-### Modo de preparo
-
-#### Massa
+### Massa
 
 1. Bata 3 claras em neve e reserve
 1. Bata as 3 gemas com a manteiga e o açúcar até ficar aerado e pálido
@@ -32,10 +28,10 @@
 1. Coloque as claras em neve, incorporando suavemente misturando de baixo para cima.
 1. Coloque numa forma untada e leve ao forno pré aquecido a 180oC por cerca de 35 minutos ou até que esteja assado
 
-#### Calda
+### Calda
 
 1. Misture todos os ingredientes até que fiquem homogêneos
 
 #### Montagem
 
-Com o bolo ainda quente, corte as fatias e despeje a calda sobre ele de forma homogênea. Adicione côco ralado por cima, e em seguida deixe gelar
+Com o bolo ainda quente, corte as fatias e despeje a calda sobre ele de forma homogênea. Adicione côco ralado por cima, e em seguida deixe gelar.

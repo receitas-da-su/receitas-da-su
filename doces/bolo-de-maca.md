@@ -1,9 +1,6 @@
-# Bolo de maçã🥮🍎
-## Com banana
+# Bolo de maçã🥮🍎 com banana 🍌
 
-* data: 22/03/2020
-
-### Ingredientes
+## Ingredientes
 
 - [ ] 2 colheres (sopa) de manteiga em temperatura ambiente
 - [ ] 2/3 xícara (chá) de açúcar mascavo
@@ -17,7 +14,7 @@
 - [ ] 1/2 colher (café) de essência de baunilha
 - [ ] 1/2 colher (chá) de canela em pó
 
-### Modo de preparo
+## Modo de preparo
 
 1. Bata a manteiga com o açúcar, a banana e a essência de baunilha
 1. Acrescente os ovos e bata

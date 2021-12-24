@@ -1,29 +1,22 @@
 # 🍰Pavê de doce de leite
 
-Este pavê não leva frutas e não fica enjoativo.
-
-* data: 25/03/2018
-* tempo de preparo: 01h00m
-* tempo de execução: 02h00m
-* tempo total: 03h00m
-
 ## Ingredientes
 
 1. **Creme de confeiteiro**
-   * 300 mL de leite
-   * 3 colheres de sopa de amido de milho
-   * 200 g de creme de leite
-   * 1/2 lata de leite condensado
+   - [ ] 300 mL de leite
+   - [ ] 3 colheres de sopa de amido de milho
+   - [ ] 200 g de creme de leite
+   - [ ] 1/2 lata de leite condensado
 2. **Creme de doce de leite**
-   * 300 g de doce de leite
-   * 100 g de creme de leite (se necessário)
+   - [ ] 300 g de doce de leite
+   - [ ] 100 g de creme de leite (se necessário)
 3. **Bolachas e ganache**
-   * 1/2 xícara de chá de leite
-   * Canela em pó
-   * 250 g de chocolate meio amargo
-   * 1/2 caixa de creme de leite
+   - [ ] 1/2 xícara de chá de leite
+   - [ ] Canela em pó
+   - [ ] 250 g de chocolate meio amargo
+   - [ ] 1/2 caixa de creme de leite
 4. **Chantily**
-   * Chantily para confeitar.
+   - [ ] Chantily para confeitar.
 
 ## Modo de preparo
 
@@ -51,7 +44,6 @@ Este pavê não leva frutas e não fica enjoativo.
 
 1. Levar à geladeira por 2 horas para que a sobremesa fique firme.
 
-
 ### Dicas
 
 * Para o creme de doce de leite, se necessário, coloque em uma manga para
@@ -60,8 +52,3 @@ facilitar a distribuição do creme
 creme de doce de leite.
 * O chantily é opcional, e pode ser de qualquer tipo: o pronto, ou os que vem em
 caixas, ou mesmo os que precisam de leite e um preparado para montar.
-
-
-### Informações nutricionais
-
-<não há>

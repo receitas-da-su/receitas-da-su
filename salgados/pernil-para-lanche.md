@@ -1,29 +1,29 @@
 # Pernil para lanche🥪🐷🥩
 
-### Ingredientes
+## Ingredientes
 
 ### Pernil
 
-- 4 kg de pernil (com ou sem osso)
-- 200 g alho
-- 200 mL de azeite de oliva
-- 200 mL de vinho branco
-- 100 g de sal (ou uma colher de sopa por kg de pernil)
-- 50g de pimentas diversas moídas (pode ser tempero baiano)
-- 1 ramo de alecrim
+- [ ] 4 kg de pernil (com ou sem osso)
+- [ ] 200 g alho
+- [ ] 200 mL de azeite de oliva
+- [ ] 200 mL de vinho branco
+- [ ] 100 g de sal (ou uma colher de sopa por kg de pernil)
+- [ ] 50g de pimentas diversas moídas (pode ser tempero baiano)
+- [ ] 1 ramo de alecrim
 
 ### Molho
 
-- 10 tomates fatiados
-- 4 cebolas em rodelas
-- 2 pimentão vermelho em rodelas
-- 2 pimentão amarelo em rodelas
-- 100 mL de vinho branco
-- 200 mL de azeite
-- 50g de alho
-- 200 g de bacon 
+- [ ] 10 tomates fatiados
+- [ ] 4 cebolas em rodelas
+- [ ] 2 pimentão vermelho em rodelas
+- [ ] 2 pimentão amarelo em rodelas
+- [ ] 100 mL de vinho branco
+- [ ] 200 mL de azeite
+- [ ] 50g de alho
+- [ ] 200 g de bacon 
 
-### Modo de preparo
+## Modo de preparo
 
 ### Pernil
 

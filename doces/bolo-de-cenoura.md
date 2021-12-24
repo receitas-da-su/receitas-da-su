@@ -4,12 +4,13 @@
 
 ### Ingredientes
 
-- 1 cenoura
-- 2 ovos 
-- 1 xícara (chá) de açúcar
-- 1/3 de xícara (chá) de óleo
-- 2 xícaras (chá) de farinha
-- 1 colher (sopa) de fermento
+- [ ] 1 cenoura
+- [ ] 2 ovos
+- [ ] 1 xícara (chá) de açúcar
+- [ ] 1/3 de xícara (chá) de óleo
+- [ ] 1 e 1/2 xícaras (chá) de farinha
+- [ ] 1/2 xícara (chá) de amido de milho
+- [ ] 1 colher (sopa) de fermento
 
 ### Modo de preparo
 

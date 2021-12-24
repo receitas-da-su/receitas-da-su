@@ -2,16 +2,16 @@
 
 ## Ingredientes
 
-* 2 maçãs
-* 1/2 limão
-* 2 ovos
-* 3/4 de xícara de chá de farinha
-* 4 colheres de sopa de açúcar
-* 2 colheres de sopa de óleo de côco
-* 3 colheres de sopa de leite
-* 1 colher de sobremesa rasa de fermento
-* 1/2 colher de café de canela
-* 1 colher de sopa de açúcar e 1 colher de café de canela para cobertura
+- [ ] 2 maçãs
+- [ ] 1/2 limão
+- [ ] 2 ovos
+- [ ] 3/4 de xícara de chá de farinha
+- [ ] 4 colheres de sopa de açúcar
+- [ ] 2 colheres de sopa de óleo de côco
+- [ ] 3 colheres de sopa de leite
+- [ ] 1 colher de sobremesa rasa de fermento
+- [ ] 1/2 colher de café de canela
+- [ ] 1 colher de sopa de açúcar e 1 colher de café de canela para cobertura
 
 ## Modo de preparo
 

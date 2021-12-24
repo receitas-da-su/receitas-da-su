@@ -1,20 +1,13 @@
 # 🍪Bolacha da Vó Nice
 
-Receita de família
-
-* data: 01/04/2018
-* tempo de preparo: 0h30m
-* tempo de execução: 0h30m
-* tempo total: 01h00m
-
 ## Ingredientes
 
-* 300 mL de leite
-* 500 g de açúcar
-* 250 g de margarina em temperatura ambiente
-* 30 g de sal amoníaco
-* 4 ovos grandes
-* 1 kg de farinha
+* [ ] 300 mL de leite
+* [ ] 500 g de açúcar
+* [ ] 250 g de margarina em temperatura ambiente
+* [ ] 30 g de sal amoníaco
+* [ ] 4 ovos grandes
+* [ ] 1 kg de farinha
 
 ## Modo de preparo
 
@@ -28,8 +21,3 @@ Receita de família
 
 * A quantidade de farinha pode variar ligeiramente devido ao tamanho dos ovos.
 * É possível criar algumas variações da receita, colocando um pouco de gengibre na massa, ou mesmo algumas gotas de essência de baunilha.
-
-
-### Informações nutricionais
-
-<não há>

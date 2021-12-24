@@ -1,9 +1,10 @@
 # Título
+
 ## Subtítulo
 
 descricao
 
-> 
+>
 * data: 25/01/2018
 * tempo de preparo: 00h50m
 * tempo de execução: 00h10m
@@ -11,10 +12,10 @@ descricao
 
 ### Ingredientes
 
-- [ ] foo
-- [ ] bar
-- [ ] fizz
-- [ ] buzz
+* [ ] foo
+* [ ] bar
+* [ ] fizz
+* [ ] buzz
 
 ### Modo de preparo
 

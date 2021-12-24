@@ -1,8 +1,6 @@
-# Bolo Anjo🍰😇
+# Bolo Anjo🍰😇 com gotas de chocolate e bastente fofo
 
-## com gotas de chocolate, bem fofinho
-
-### Ingredientes
+## Ingredientes
 
 - [ ] 2 ovos inteiros
 - [ ] ¾ xícara de chá de açúcar
@@ -13,7 +11,7 @@
 - [ ] 100 g de gotas de chocolate ou 150g de chocolate ao leite em barra picado grosseiramente
 - [ ] 1 colher de sopa de farinha de trigo
 
-### Modo de preparo
+## Modo de preparo
 
 1. Pré aqueça o forno a 200 graus Celsius.
 1. Em seguida unte uma forma redonda com furo no meio, com óleo e farinha de trigo. Reserve.

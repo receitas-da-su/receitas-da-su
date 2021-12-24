@@ -1,10 +1,6 @@
-# Pão da Regina🍞
+# Pão da Regina🍞 (de liquidificador)
 
-## Pão de liquidificador
-
-* data: 22/03/2020
-
-### Ingredientes
+## Ingredientes
 
 - [ ] 2 xícaras de farinha de trigo branca
 - [ ] 2 xícaras de farinha de trigo integral (ou 1 e 3/4 de farinha de trigo integral e 1/4 de aveia em flocos)
@@ -15,7 +11,7 @@
 - [ ] 1 colher de sobremesa de açúcar
 - [ ] 1 colher de sobremesa de sal
 
-### Modo de preparo
+## Modo de preparo
 
 1. Bata no liquidificador o leite sem fermento, o óleo, o ovo
 1. Misture o sal, o açúcar, o restante do leite com o fermento.

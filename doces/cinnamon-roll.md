@@ -1,9 +1,8 @@
 # Cinnamon Roll
-* data: 22/03/2020
 
-### Ingredientes
+## Ingredientes
 
-#### Massa
+### Massa
 
 - [ ] 230 mL de leite morno
 - [ ] 60 mL de água morna
@@ -15,13 +14,13 @@
 - [ ] 650g de farinha de trigo
 - [ ] 1 1/2 tablete de fermento
 
-#### Recheio
+### Recheio
 
 - [ ] 120g de manteiga em temperatura ambiente
 - [ ] 240g de açúcar
 - [ ] 4 colheres de sopa de canela em pó
 
-### Modo de preparo
+## Modo de preparo
 
 1. Misture o sal, farinha, acúcar
 1. Acrescente os ovos, a baunilha, a manteiga

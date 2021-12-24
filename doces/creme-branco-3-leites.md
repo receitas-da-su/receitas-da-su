@@ -1,16 +1,15 @@
-# Creme Branco 3 leites🍨🥛🥛🥛
+# Creme Branco 3 leites🍨🥛🥛🥛 (Creme Curinga🃏)
 
-## Creme Curinga🃏
 
-### Ingredientes
+## Ingredientes
 
-- 1 caixa de leite condensado
-- 1 caixa de creme de leite
-- 1 xícara (chá) de leite em pó
-- 1 gema de ovo peneirada
-- (opcional) 1 garrafa pequena de leite de côco
+- [ ] 1 caixa de leite condensado
+- [ ] 1 caixa de creme de leite
+- [ ] 1 xícara (chá) de leite em pó
+- [ ] 1 gema de ovo peneirada
+- [ ] (opcional) 1 garrafa pequena de leite de côco
 
-### Modo de preparo
+## Modo de preparo
 
 1. Coloque o leite condensado e o creme de leite, nesta ordem, numa panela com fogo desligado
 1. Mexa até uniformizar
